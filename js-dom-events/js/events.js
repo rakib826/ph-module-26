@@ -1,0 +1,1 @@
+console.log("this is seperate javascript file");
